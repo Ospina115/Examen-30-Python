@@ -1,0 +1,13 @@
+[
+    {
+        "id": "123",
+        "nombre": "Samuel",
+        "cargo": "Tecnologo",
+        "salario": 1200000.0,
+        "diasTrabajados": 31,
+        "horasExtras": 10,
+        "valorDia": 50000.0,
+        "descuentoxCafeteria": 20000.0,
+        "cuotaPrestamo": 10000.0
+    }
+]
