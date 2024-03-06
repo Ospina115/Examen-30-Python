@@ -1,0 +1,7 @@
+{
+    "id": "12",
+    "nombre": "Papaya",
+    "valorUnitario": 5000.0,
+    "stockminimo": 20,
+    "stockmaximo": 30
+}
